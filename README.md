@@ -9,7 +9,7 @@
 
 I am a data analysts with the Florida Fish and Wildlife Conservation Commission's (FWC) Florida Wildlife Research Institute's (FWRI) Fisheries-Independent Monitoring program (FIM). I am also a Doctoral Candidate at the University of South Florida's College of Marine Science. My research interests include marine and fisheries ecology, spatial and temporal analytics, community dynamics, and open science tools. 
 
-## &#x1f4c8; GitHub Stats
+## 💹 GitHub Stats 💹
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelJSchram&show_icons=true&theme=github_dark&layout=compact)](https://github.com/MichaelJSchram/github-readme-stats)
 
 [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelJSchram&show_icons=true&theme=github_dark)](https://github.com/MichaelJSchram/github-readme-stats)
