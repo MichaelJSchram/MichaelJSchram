@@ -1,4 +1,4 @@
-## Michael Schram
+## 🌊🐟 Michael Schram 🐟🌊
 
 [![GitHub Badge](https://img.shields.io/github/followers/MichaelJSchram?style=social)](https://github.com/MichaelJSchram?tab=followers)
 [![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-brightgreen)](https://www.researchgate.net/profile/Michael-Schram)
