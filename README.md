@@ -12,4 +12,4 @@ I am a data analysts with the Florida Fish and Wildlife Conservation Commission'
 ## 💹 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelJSchram&show_icons=true&theme=github_dark&layout=compact)](https://github.com/MichaelJSchram/github-readme-stats)
 
-[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelJSchram&show_icons=true&theme=github_dark)](https://github.com/MichaelJSchram/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MichaelJSchram&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=MichaelJSchram&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark)
