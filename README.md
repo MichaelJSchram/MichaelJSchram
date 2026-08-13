@@ -7,7 +7,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/michael-schram-2128a361/)
 
 
-I am a data analyst with the Florida Fish and Wildlife Conservation Commission's (FWC) Florida Wildlife Research Institute's (FWRI) Fisheries-Independent Monitoring program (FIM). I received my Doctorate from the University of South Florida's College of Marine Science. My research interests include marine and fisheries ecology, spatial and temporal analytics, and community dynamics, and I am strong advocate of open science. 
+I am an Associate Research Scientist with the Florida Fish and Wildlife Conservation Commission's (FWC) Florida Wildlife Research Institute's (FWRI) Fisheries-Independent Monitoring program (FIM). I received my Doctorate from the University of South Florida's College of Marine Science. My research interests include marine and fisheries ecology, spatial and temporal analytics, and community dynamics, and I am strong advocate of open science. 
 
 ## 💹 GitHub Stats
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=MichaelJSchram&layout=compact&langs_count=4&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=MichaelJSchram&layout=compact&langs_count=4&theme=github_dark)
